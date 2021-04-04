@@ -3,8 +3,19 @@
 @import "variable.css";
 
 @import "status-bar.css";
+
+/* Login */
 @import "login.css";
+
+/* Friends */
+@import "nav_bar.css";
+@import "screen-header.css";
+@import "friends.css";
+
+@import "user-component.css";
 
 body {
 	font-family: "Open Sans", sans-serif;
+	/* height: 1000vh; */
+	color: #2e363e;
 }
