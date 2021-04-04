@@ -14,8 +14,15 @@
 
 @import "user-component.css";
 
+/* Chats */
+@import "badge.css";
+
 body {
 	font-family: "Open Sans", sans-serif;
 	/* height: 1000vh; */
 	color: #2e363e;
+}
+
+.main-screen {
+	padding: 0px var(--horizontal-space);
 }
