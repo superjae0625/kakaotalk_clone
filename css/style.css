@@ -16,9 +16,13 @@
 
 /* Chats */
 @import "badge.css";
+@import "icon-row.css";
 
 /* Find */
 @import "find.css";
+
+/* More */
+@import "more.css";
 
 body {
 	font-family: "Open Sans", sans-serif;
