@@ -24,6 +24,12 @@
 /* More */
 @import "more.css";
 
+/* Alternative */
+@import "alt-screen-header.css";
+
+/* Settings */
+@import "settings.css";
+
 body {
 	font-family: "Open Sans", sans-serif;
 	/* height: 1000vh; */
