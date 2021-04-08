@@ -30,6 +30,9 @@
 /* Settings */
 @import "settings.css";
 
+/* Chat */
+@import "chat.css";
+
 body {
 	font-family: "Open Sans", sans-serif;
 	/* height: 1000vh; */
