@@ -33,6 +33,9 @@
 /* Chat */
 @import "chat.css";
 
+/* No mobile */
+@import "no-mobile.css";
+
 body {
 	font-family: "Open Sans", sans-serif;
 	/* height: 1000vh; */
