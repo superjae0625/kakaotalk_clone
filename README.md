@@ -1,3 +1,3 @@
-# KakaoTalk Clone Coding 2021
+# KakaoTalk Clone Coding
 
 HTML & CSS are so much fun!
